@@ -1,0 +1,9 @@
+Number of iterations : 15
+H1 
+Path : Not Possible
+Number of visited nodes : 15
+ 
+H2 
+Path : Not Possible
+Number of visited nodes : 15
+ 

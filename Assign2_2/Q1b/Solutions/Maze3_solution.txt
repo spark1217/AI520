@@ -1,0 +1,22 @@
+Node Selected: [0, 0]
+F-Value: 5 , alternative_best_f: 9223372036854775807
+Further Child Nodes: [0,2][2,0],
+-----------------------------------
+Node Selected: [0, 2]
+F-Value: 4 , alternative_best_f: 4
+Further Child Nodes: [0,1][0,3][1,2],
+-----------------------------------
+Node Selected: [0, 3]
+F-Value: 4 , alternative_best_f: 4
+Further Child Nodes: [0,0],
+-----------------------------------
+Node Selected: [1, 2]
+F-Value: 4 , alternative_best_f: 4
+Further Child Nodes: [1,1][1,3][0,2][2,2],
+-----------------------------------
+Node Selected: [1, 3]
+F-Value: 4 , alternative_best_f: 4
+Further Child Nodes: [1,2][0,3][2,3],
+-----------------------------------
+Node Selected: [2, 3]
+F-Value: 4 , alternative_best_f: 4

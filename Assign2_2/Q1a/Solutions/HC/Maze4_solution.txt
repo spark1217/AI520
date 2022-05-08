@@ -1,0 +1,54 @@
+Number of iterations : 500
+H1 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+H2 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+Number of iterations : 600
+H1 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+H2 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+Number of iterations : 700
+H1 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+H2 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+Number of iterations : 800
+H1 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+H2 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+Number of iterations : 900
+H1 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+H2 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+Number of iterations : 1000
+H1 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 
+H2 
+Path : (0, 0),(0, 3),(0, 4),(3, 4),(4, 4)
+Number of visited nodes : 5
+ 

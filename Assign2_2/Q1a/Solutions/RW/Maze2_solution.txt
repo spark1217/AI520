@@ -1,0 +1,924 @@
+Number of iterations : 500 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 500 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 500 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Random move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Best move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 500 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 68
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Random move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Best move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 68
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Random move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Best move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 68
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Random move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Best move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 68
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Random move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Best move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 68
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Random move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 10
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Best move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 0)
+Random move : (1, 0)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Random move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Best move : (2, 0)
+Best move : (2, 1)
+Random move : (2, 2)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 0),(1, 0),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 0),(2, 1),(2, 2),(2, 3)
+Number of visited nodes : 68
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (0, 3)
+Best move : (1, 3)
+Random move : (2, 3)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+

@@ -1,0 +1,432 @@
+Number of iterations : 500 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 500 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 500 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 500 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 600 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 600 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 600 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 600 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 700 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 700 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 700 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 700 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 800 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 800 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 800 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 800 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 900 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 900 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 900 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 900 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 1000 
+Probability value chosen : 0.2
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 1000 
+Probability value chosen : 0.4
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Random move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 1000 
+Probability value chosen : 0.6
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+Number of iterations : 1000 
+Probability value chosen : 0.8
+H1
+Random move : (0, 1)
+Best move : (0, 2)
+Random move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+
+H2
+Best move : (0, 1)
+Best move : (0, 2)
+Best move : (1, 2)
+Best move : (2, 2)
+Path : (0, 0),(0, 1),(0, 2),(1, 2),(2, 2)
+Number of visited nodes : 5
+

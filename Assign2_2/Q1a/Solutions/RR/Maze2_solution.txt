@@ -1,0 +1,384 @@
+Number of iterations : 500 
+Number of restart : 10
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 500 
+Number of restart : 15
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 500 
+Number of restart : 20
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 500 
+Number of restart : 25
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Number of restart : 10
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2404
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Number of restart : 15
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2404
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Number of restart : 20
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2404
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 600 
+Number of restart : 25
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2404
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Number of restart : 10
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2804
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Number of restart : 15
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2804
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Number of restart : 20
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2804
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 700 
+Number of restart : 25
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 2804
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Number of restart : 10
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3204
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Number of restart : 15
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3204
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Number of restart : 20
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3204
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 800 
+Number of restart : 25
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3204
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Number of restart : 10
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3604
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Number of restart : 15
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3604
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Number of restart : 20
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3604
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 900 
+Number of restart : 25
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 3604
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Number of restart : 10
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 4004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Number of restart : 15
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 4004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Number of restart : 20
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 4004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
+Number of iterations : 1000 
+Number of restart : 25
+H1
+Iteration 1 with start position as (1, 0)
+Iteration 2 with start position as (0, 0)
+Iteration 3 with start position as (2, 0)
+Iteration 4 with start position as (2, 0)
+Iteration 5 with start position as (0, 2)
+Path : (0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 4004
+
+H2
+Iteration 1 with start position as (0, 0)
+Path : (0, 0),(0, 1),(0, 2),(0, 3),(1, 3),(2, 3)
+Number of visited nodes : 6
+
